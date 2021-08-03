@@ -1,0 +1,8 @@
+.cards__section {
+    display: flex;
+    justify-content: space-evenly;
+
+    &--item{
+        width: 18rem
+    }
+}
